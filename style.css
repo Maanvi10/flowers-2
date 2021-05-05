@@ -1,0 +1,58 @@
+#carousel {
+    background-color: deepskyblue;
+}
+
+#carousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#fav {
+    text-align: center;
+}
+
+#welcome {
+    text-align: center;
+}
+
+#welcome img {
+    width: 100%;
+    height: 100%;
+}
+
+.menu {
+    list-style: none;
+    top: 10px;
+    right: 40px;
+    z-index: 10;
+    position: absolute;
+    cursor: pointer;
+}
+
+.lists {
+    display: inline;
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    color: floralwhite;
+}
+
+#map img {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+}
